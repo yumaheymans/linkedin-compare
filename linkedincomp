@@ -1,0 +1,56 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-yla0">Feature</th>
+    <th class="tg-yla0">LinkedIn Recruiter</th>
+    <th class="tg-yla0">LinkedIn Recruiter Lite</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Search Filters</td>
+    <td class="tg-cly1">Over 40 advanced filters</td>
+    <td class="tg-cly1">More than 20 filters</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">InMail Capabilities</td>
+    <td class="tg-cly1">- Up to 150 InMails per month<br>- Includes bulk messaging for 25 profiles</td>
+    <td class="tg-cly1">Limited to 30 InMails per month</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Search Limitations</td>
+    <td class="tg-cly1">No limits, all public profiles </td>
+    <td class="tg-cly1">Restricted to up to 3rd-degree connections</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Collaborative Capabilities</td>
+    <td class="tg-cly1">- Multi-user dashboard for team collaboration<br>- Sharing of candidate interaction histories</td>
+    <td class="tg-cly1">Not available</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Hiring Pipeline Optimization</td>
+    <td class="tg-cly1">- Detailed reports and analytics <br>- Includes InMail rates, candidate overview</td>
+    <td class="tg-cly1">Not available</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Pricing</td>
+    <td class="tg-cly1">- More expensive<br>- Suited for larger organizations</td>
+    <td class="tg-cly1">More budget-friendly<br>Suitable for smaller firms</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Target User</td>
+    <td class="tg-cly1">Larger organizations, recruitment agencies</td>
+    <td class="tg-cly1">Smaller firms, individual recruiters</td>
+  </tr>
+</tbody>
+</table>
